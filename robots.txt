@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-s6uk7r.dvrenotoit.fr/sitemap.xml
